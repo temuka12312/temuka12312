@@ -80,8 +80,14 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="360" src="https://giffiles.alphacoders.com/760/76088.gif"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/temuka12312/temuka12312/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/temuka12312/count.svg?"  />
+</div>
 
 ###
